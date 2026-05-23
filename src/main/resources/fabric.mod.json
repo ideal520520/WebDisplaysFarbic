@@ -16,7 +16,7 @@
 		"homepage": "https://github.com/CinemaMod/webdisplays",
 		"sources": "https://github.com/CinemaMod/webdisplays"
 	},
-	"license": "GPL-3.0",
+	"license": "MIT",
 	"icon": "assets/webdisplays/icon.png",
 	"environment": "*",
 	"entrypoints": {
