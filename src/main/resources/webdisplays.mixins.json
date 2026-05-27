@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.montoyo.wd.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "PixelStoreResetMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
